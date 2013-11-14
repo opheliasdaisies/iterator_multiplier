@@ -1,3 +1,1 @@
-100.times do |i|
-	puts (i+1)*5
-end
+100.times { |i| puts (i+1)*5 }
