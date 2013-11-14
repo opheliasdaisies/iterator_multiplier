@@ -1,3 +1,3 @@
 100.times do |i|
-	puts i*5
+	puts (i+1)*5
 end
